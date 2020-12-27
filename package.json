@@ -1,12 +1,12 @@
 {
-  "name": "pusher",
-  "version": "1.0.0",
-  "description": "A Pusher is an object that contains some value. All time value changes a callback is triggered. Useful to link proccess and services via callback.",
+  "name": "content-watcher",
+  "version": "0.1.0",
+  "description": "A Content Watcher is an object that contains some value. All time value changes a callback is triggered. Useful to link proccess and services via callback.",
   "main": "src/index.js",
-  "repository": "https://github.com/enriquerene/pusher.git",
+  "repository": "https://github.com/enriquerene/content-watcher.git",
   "author": "Enrique René <enriquerenebr@gmail.com>",
-  "license": "GPLv3",
-  "private": null,
+  "license": "GNU-General-Public-Liscense-3",
+  "private": false,
   "type": "module",
   "dependencies": {},
   "devDependencies": {
