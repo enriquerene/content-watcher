@@ -1,0 +1,16 @@
+{
+  "name": "pusher",
+  "version": "1.0.0",
+  "description": "A Pusher is an object that contains some value. All time value changes a callback is triggered. Useful to link proccess and services via callback.",
+  "main": "src/index.js",
+  "repository": "https://github.com/enriquerene/pusher.git",
+  "author": "Enrique René <enriquerenebr@gmail.com>",
+  "license": "GPLv3",
+  "private": null,
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.11",
+    "jest": "^26.6.3"
+  }
+}
